@@ -1,0 +1,9 @@
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\bin\Debug\CompileConsole.exe.config
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\bin\Debug\CompileConsole.exe
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\bin\Debug\CompileConsole.pdb
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\bin\Debug\LibTrigonometricOperations.dll
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\bin\Debug\LibTrigonometricOperations.pdb
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\obj\Debug\CompileConsole.csprojResolveAssemblyReference.cache
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\obj\Debug\CompileConsole.csproj.CoreCompileInputs.cache
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\obj\Debug\CompileConsole.exe
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\CompileConsole\obj\Debug\CompileConsole.pdb

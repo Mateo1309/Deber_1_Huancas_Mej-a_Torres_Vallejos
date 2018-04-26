@@ -1,0 +1,7 @@
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\ComponentBasedProgramming_Example1\bin\Debug\netstandard1.4\LibTrigonometricOperations.deps.json
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\ComponentBasedProgramming_Example1\bin\Debug\netstandard1.4\LibTrigonometricOperations.dll
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\ComponentBasedProgramming_Example1\bin\Debug\netstandard1.4\LibTrigonometricOperations.pdb
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\ComponentBasedProgramming_Example1\obj\Debug\netstandard1.4\ComponentBasedProgramming_Example1.csproj.CoreCompileInputs.cache
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\ComponentBasedProgramming_Example1\obj\Debug\netstandard1.4\ComponentBasedProgramming_Example1.AssemblyInfo.cs
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\ComponentBasedProgramming_Example1\obj\Debug\netstandard1.4\LibTrigonometricOperations.dll
+d:\Mateo\Documents\Visual Studio 2017\Projects\ComponentBasedProgramming_Example1\ComponentBasedProgramming_Example1\obj\Debug\netstandard1.4\LibTrigonometricOperations.pdb
